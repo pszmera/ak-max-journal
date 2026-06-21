@@ -1,2 +1,14 @@
 # ak-max-journal
-HTML page archive and documentation
+
+自动发布文件目录
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
